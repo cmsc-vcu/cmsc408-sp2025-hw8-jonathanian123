@@ -1,13 +1,13 @@
 
 author:
-    - name: Skippy McBoatface
-      email: skippy@mcboatface.com
+    - name: Jonathan De La Pena
+      email: delapenajd@vcu.edu
 
 date: last-modified
 
 format:
     html:
-        theme: cosmo
+        theme: morph
         toc: true
         embed-resources: true
         code-copy: true
